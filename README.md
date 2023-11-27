@@ -1,4 +1,4 @@
-# Peeking Frog
+![preview](https://github.com/fati10011/Peeking-Frog/assets/140429920/601897e6-67c3-481f-97d1-60b4ba03c582)# Peeking Frog
 A simple game created using the Pygame library. In this game, a super cute frog peeks secrety at the player until the mouse hovers over it.
 
 
@@ -9,7 +9,7 @@ A simple game created using the Pygame library. In this game, a super cute frog 
 
 # Preview:
 
-![preview](https://github.com/fati10011/Peeking-Frog/assets/140429920/a3041a56-99b7-43fa-a52b-0237d03e8207)
+![preview](https://github.com/fati10011/Peeking-Frog/assets/140429920/0b8a2a9b-e77e-4c62-9426-7acb19cecef0)
 
 # Installation:
 <ol>
