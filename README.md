@@ -2,16 +2,16 @@
 A simple game created using the Pygame library. In this game, a super cute frog peeks secrety at the player until the mouse hovers over it.
 
 
-# What I learnt:
+### What I learnt:
 <ul>
   <li>The Pygame library</li>
 </ul>
 
-# Preview:
+### Preview:
 
 ![preview](https://github.com/fati10011/Peeking-Frog/assets/140429920/0b8a2a9b-e77e-4c62-9426-7acb19cecef0)
 
-# Installation:
+### Installation:
 <ol>
   <li>Clone the repository</li>
   
@@ -25,7 +25,7 @@ $ pip3 install pygame
 ```
 </ol>
 
-# Usage:
+### Usage:
 
 <ol>
   <li>Navigate to the project directory</li>
