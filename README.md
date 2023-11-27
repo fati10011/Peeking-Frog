@@ -9,7 +9,7 @@ A simple game created using the Pygame library. In this game, a super cute frog 
 
 # Preview:
 
-https://github.com/fati10011/Peeking-Frog/assets/140429920/ef1b35ad-f256-47b8-b977-54f12d5a07cd
+![preview](https://github.com/fati10011/Peeking-Frog/assets/140429920/a3041a56-99b7-43fa-a52b-0237d03e8207)
 
 # Installation:
 <ol>
