@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pygame
 
 # pygame setup
@@ -5,7 +6,6 @@ pygame.init()
 pygame.display.set_caption('Peeking Froggy')
 width, height = 150, 150
 screen = pygame.display.set_mode((width, height))
-# , pygame.NOFRAME
 clock = pygame.time.Clock()
 running = True
 dt = 0
